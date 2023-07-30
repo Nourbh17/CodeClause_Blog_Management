@@ -1,0 +1,25 @@
+.search-container {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+  }
+  
+  .icon-container {
+    margin-left: 10px; /* Adjust the margin as needed to create the desired space */
+  }
+
+  .icon-container svg {
+    fill: #6C757D; /* Specify the desired color for the icon when not linked */
+  }
+  
+  /* Style for the icon when hovered (optional) */
+  .icon-container:hover svg {
+    fill: #4282b3; /* Specify the desired color for the icon when hovered (if needed) */
+  }
+
+
+
+
+
+
+  
+  
